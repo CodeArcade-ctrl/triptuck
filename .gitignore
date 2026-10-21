@@ -1,0 +1,3 @@
+# Local exports and editor files
+*.json
+.DS_Store
